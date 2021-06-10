@@ -1,0 +1,10 @@
+{
+  "us": ["USA", "US", "United States", "United States of America"],
+  "uk": ["GBR", "GB", "United Kingdom", "United Kingdom of Great Britain and Northern Ireland"],
+  "cn": ["CHN", "CN", "China",  "中國"],
+  "br": ["BRA", "BR", "Brazil", "Brasil","República federativa do Brasil"],
+  "in": ["IND", "India", "भारत"],
+  "bg": ["BGD", "BD", "Bangladesh", "বাংলাদেশ" ],
+  "ng": ["NGA", "NG", "Nigeria"],
+  "ug": ["UGA", "UG", "Uganda", "Republic of Uganda"]
+}

@@ -1,0 +1,6 @@
+{
+  "in": ["IND", "India"],
+  "bg": ["BGD", "BD", "Bangladesh"],
+  "ng": ["NGA", "NG", "Nigeria"],
+  "ug": ["UGA", "UG", "Uganda"]
+}
